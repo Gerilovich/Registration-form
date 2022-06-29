@@ -14,8 +14,8 @@
 	background-color: #4070f4;
 }
 
-.form {
-	position: absolute;
+.form_registration {
+	
 	max-width: 430px;
 	width: 100%;
 	padding: 30px;
@@ -56,10 +56,12 @@ input:focus {
 	outline: none;
 	border: 1px solid#CACACA;
 	border-radius: 6px;
+	margin: 20px 0px;
 }
 
 .input_send {
 	font-size: 28px;
+	width: 100%;
 	border: 1px solid#CACACA;
 	border-radius: 6px;
 	padding: 5px 0px;
